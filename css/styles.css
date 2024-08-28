@@ -264,12 +264,10 @@ input[type="submit"]{
 input [type="submit"]:hover{
   background-color: #0056b0;
 }
-body{
+body {
   background-color: #ffffffe7;
-  margin-top: 10%;
-  margin-left: 20%;
-  margin-right: 20%;
-  margin-bottom: 10%;
+  margin: 0; /* Ajustar margen para todo el cuerpo /
+  padding: 10% 20%; / Ajustar padding para mantener espacio alrededor del contenido */
 }
 
 footer{
